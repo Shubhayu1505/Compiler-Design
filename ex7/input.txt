@@ -1,0 +1,4 @@
+S=a
+S=ab
+S=abc
+S=abcd
